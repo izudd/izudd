@@ -1,6 +1,3 @@
-# 💫 About Me:
-🧑‍💻 I’m currently working on<br><br>Building modern web apps, geocoding tools, and GIS-based dashboards.<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects related to web development, mapping, and automation.<br><br>🆘 I’m looking for help with<br><br>Scaling APIs, performance optimization, and cloud infrastructure.<br><br>🌱 I’m currently learning<br><br>Advanced JavaScript, Laravel optimization, and data visualization techniques.<br><br>💬 Ask me about<br><br>Web development, geocoding projects, GIS stuff, or anything tech-related.<br><br>⚡ Fun fact<br><br>I can spend hours debugging… then realize the problem was just a missing semicolon 😆
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haqizud22@gmail.com) 
